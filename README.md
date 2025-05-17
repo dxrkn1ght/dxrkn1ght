@@ -64,10 +64,11 @@ Me</a></br>
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
-## As s Cybersecurity specialist
+## As a Cybersecurity specialist
 
 
-<img align="left"  src="https://rare-gallery.com/uploads/posts/996980-Black-Adam-glitch-art-alone-Mr.-Robot-Elliot-Mr.jpg" width="500" height="320" />
+<img align="right" src="https://rare-gallery.com/uploads/posts/996980-Black-Adam-glitch-art-alone-Mr.-Robot-Elliot-Mr.jpg
+" width="500" height="320" />
 
 
 **Tools**
