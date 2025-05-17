@@ -67,7 +67,7 @@ Me</a></br>
 ## As s Cybersecurity specialist
 
 
-<img align="center"  src="https://rare-gallery.com/uploads/posts/996980-Black-Adam-glitch-art-alone-Mr.-Robot-Elliot-Mr.jpg" width="500" height="320" />
+<img align="left"  src="https://rare-gallery.com/uploads/posts/996980-Black-Adam-glitch-art-alone-Mr.-Robot-Elliot-Mr.jpg" width="500" height="320" />
 
 
 **Tools**
