@@ -24,7 +24,9 @@ Me</a></br>
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://lifehacker.ru/wp-content/uploads/2017/06/big_main_1497340457.jpg" width="500" height="320" />
+<img align="right" alt="GIF" src="https://ovp.itv.com/v2/images/programme/gz00htt/itv_hub/01_Hero_DesktopCTV/16x9?distributionPartner=itv_hub&fallback=standard&w=767&q=65&blur=0&bg=false" width="500" height="320" />
+<img align="right" alt="GIF" src="https://rare-gallery.com/uploads/posts/996980-Black-Adam-glitch-art-alone-Mr.-Robot-Elliot-Mr.jpg" width="500" height="320" />
+
 
 **Back-End**
 
