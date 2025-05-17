@@ -2,12 +2,12 @@
   <img src="name.svg" alt="dxrkn1ght"/>
 </h1>
 
-## Hi there 👋 I'm a Fullstack developer
+## Hi there 👋 I'm a Fullstack developer (cybersecurity specialist)
 
 <a href="https://www.youtube.com/@not_koma_/">
   <img align="left" alt="YouTube" width="22px" src="https://www.svgrepo.com/show/13671/youtube.svg"/>
 </a>
-<a href="https://discord.com/channels/@">
+<a href="https://discord.com/channels/@s1mple_dxrk_71965">
   <img align="left" alt="Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in//">
@@ -24,7 +24,7 @@ Me</a></br>
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://lifehacker.ru/wp-content/uploads/2017/06/big_main_1497340457.jpg" width="500" height="320" />
 
 **Back-End**
 
@@ -32,38 +32,32 @@ Me</a></br>
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Django Rest Framework](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](    https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=for-the-badge&&logo=Celery&logoColor=white)
+
 
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+
 
 **Front-End**
 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Data Science**
 
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
 
 **Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -84,3 +78,90 @@ Me</a></br>
 
 [//]: # (![C]&#40;https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&#41;)
 
+
+
+## As s Cybersecurity specialist
+
+
+**Tools**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hacking Tools Badges</title>
+  <style>
+    body {
+      background-color: #0f0f0f;
+      color: white;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #00ffcc;
+      text-align: center;
+    }
+
+    .badge-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 15px;
+      margin-top: 30px;
+    }
+
+    .badge {
+      background: linear-gradient(45deg, #1f1f1f, #333);
+      color: #00ffcc;
+      font-family: monospace;
+      padding: 12px 18px;
+      border-radius: 10px;
+      border: 1px solid #00ffcc;
+      transition: transform 0.3s ease, background 0.5s ease;
+      cursor: pointer;
+      animation: float 2s ease-in-out infinite;
+      font-size: 16px;
+    }
+
+    .badge:hover {
+      transform: scale(1.1);
+      background: linear-gradient(45deg, #00ffcc, #005f5f);
+      color: #000;
+    }
+
+    @keyframes float {
+      0% { transform: translateY(0); }
+      50% { transform: translateY(-6px); }
+      100% { transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🔥 Hacking Tools (Animated Badges)</h1>
+
+  <div class="badge-container">
+    <span class="badge">Nmap</span>
+    <span class="badge">Metasploit</span>
+    <span class="badge">Wireshark</span>
+    <span class="badge">Aircrack-ng</span>
+    <span class="badge">Burp Suite</span>
+    <span class="badge">John the Ripper</span>
+    <span class="badge">Hydra</span>
+    <span class="badge">Nikto</span>
+    <span class="badge">SQLMap</span>
+    <span class="badge">Maltego</span>
+    <span class="badge">SocialFish (Phishing)</span>
+    <span class="badge">SET Toolkit (Phishing)</span>
+    <span class="badge">BruteX (Bruteforce)</span>
+    <span class="badge">Medusa (Bruteforce)</span>
+  </div>
+
+</body>
+</html>
