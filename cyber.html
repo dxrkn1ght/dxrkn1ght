@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cybersecurity Portfolio - dxrkn1ght</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
+    body {
+      margin: 0;
+      background: #0a0a0a;
+      color: #00ffcc;
+      font-family: 'Fira Code', monospace, monospace;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+      padding: 20px;
+    }
+    h1, h2 {
+      text-align: center;
+      color: #00ffcc;
+      text-shadow:
+         0 0 8px #00fff0,
+         0 0 12px #00ffcc;
+    }
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 5px;
+    }
+    h2 {
+      margin-top: 1.5rem;
+      font-weight: 400;
+    }
+    .badge-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 15px;
+      margin-top: 25px;
+      max-width: 900px;
+    }
+    .badge {
+      background: linear-gradient(45deg, #001f1f, #003333);
+      color: #00ffcc;
+      border: 1.8px solid #00ffcc;
+      border-radius: 14px;
+      padding: 10px 22px;
+      font-size: 1.1rem;
+      cursor: pointer;
+      user-select: none;
+      box-shadow:
+        0 0 12px #00ffcc,
+        inset 0 0 8px #00ffcc;
+      transition: all 0.3s ease;
+      animation: float 3s ease-in-out infinite;
+      text-transform: uppercase;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+    }
+    .badge:hover {
+      background: linear-gradient(45deg, #00ffcc, #005050);
+      color: #002020;
+      transform: scale(1.15);
+      box-shadow:
+        0 0 20px #00ffcc,
+        inset 0 0 14px #00ffcc;
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-8px); }
+    }
+    .stack-section {
+      margin-top: 3rem;
+      max-width: 900px;
+      width: 100%;
+    }
+    .stack-section img {
+      max-width: 100%;
+      border-radius: 14px;
+      margin-top: 10px;
+      box-shadow: 0 0 20px #00ffcc;
+    }
+    /* Social Icons */
+    .social-links {
+      margin-top: 20px;
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+    }
+    .social-links a img {
+      width: 28px;
+      filter: drop-shadow(0 0 3px #00ffcc);
+      transition: filter 0.3s ease;
+    }
+    .social-links a:hover img {
+      filter: drop-shadow(0 0 10px #00fff0);
+      transform: scale(1.1);
+    }
+    /* Responsive */
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 2rem;
+      }
+      .badge {
+        font-size: 0.9rem;
+        padding: 8px 14px;
+      }
+      .stack-section img {
+        max-height: 180px;
+        object-fit: contain;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>dxrkn1ght</h1>
+  <h2>Fullstack Developer & Cybersecurity Specialist</h2>
+
+  <div class="social-links">
+    <a href="https://www.youtube.com/@not_koma_" target="_blank" title="YouTube">
+      <img src="https://www.svgrepo.com/show/13671/youtube.svg" alt="YouTube" />
+    </a>
+    <a href="https://discord.com/channels/@s1mple_dxrk_71965" target="_blank" title="Discord">
+      <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" />
+    </a>
+    <a href="https://www.linkedin.com/in/" target="_blank" title="LinkedIn">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" />
+    </a>
+    <a href="https://t.me/mr_kevin24" target="_blank" title="Telegram Me">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="22" />
+    </a>
+  </div>
+
+  <section class="stack-section">
+    <h2>Technology Stack</h2>
+    <div class="badge-container">
+      <!-- Back-End -->
+      <span class="badge" title="Python">Python</span>
+      <span class="badge" title="Django">Django</span>
+      <span class="badge" title="Django REST Framework">Django REST</span>
+      <span class="badge" title="FastAPI">FastAPI</span>
+
+      <!-- Databases -->
+      <span class="badge" title="PostgreSQL">PostgreSQL</span>
+
+      <!-- Front-End -->
+      <span class="badge" title="HTML5">HTML5</span>
+      <span class="badge" title="CSS3">CSS3</span>
+      <span class="badge" title="JavaScript">JavaScript</span>
+
+      <!-- Data Science -->
+      <span class="badge" title="NumPy">NumPy</span>
+
+      <!-- Tools -->
+      <span class="badge" title="Postman">Postman</span>
+      <span class="badge" title="PyCharm">PyCharm</span>
+      <span class="badge" title="Google Colab">Google Colab</span>
+
+      <!-- OS -->
+      <span class="badge" title="Linux">Linux</span>
+      <span class="badge" title="Kali Linux">Kali Linux</span>
+      <span class="badge" title="Git">Git</span>
+      <span class="badge" title="GitHub">GitHub</span>
+    </div>
+  </section>
+
+  <section class="stack-section">
+    <h2>Hacking Tools</h2>
+    <div class="badge-container">
+      <span class="badge" title="Nmap">Nmap</span>
+      <span class="badge" title="Metasploit">Metasploit</span>
+      <span class="badge" title="Wireshark">Wireshark</span>
+      <span class="badge" title="Aircrack-ng">Aircrack-ng</span>
+      <span class="badge" title="Burp Suite">Burp Suite</span>
+      <span class="badge" title="John the Ripper">John the Ripper</span>
+      <span class="badge" title="Hydra">Hydra</span>
+      <span class="badge" title="Nikto">Nikto</span>
+      <span class="badge" title="SQLMap">SQLMap</span>
+      <span class="badge" title="Maltego">Maltego</span>
+      <span class="badge" title="SocialFish (Phishing)">SocialFish</span>
+      <span class="badge" title="SET Toolkit (Phishing)">SET Toolkit</span>
+      <span class="badge" title="BruteX (Bruteforce)">BruteX</span>
+      <span class="badge" title="Medusa (Bruteforce)">Medusa</span>
+    </div>
+  </section>
+
+</body>
+</html>

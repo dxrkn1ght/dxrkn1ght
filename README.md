@@ -90,78 +90,19 @@ Me</a></br>
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Hacking Tools Badges</title>
-  <style>
-    body {
-      background-color: #0f0f0f;
-      color: white;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      padding: 20px;
-    }
+![Nmap](https://img.shields.io/badge/Nmap-informational?style=for-the-badge&logo=nmap&logoColor=white&color=blue)
+![Metasploit](https://img.shields.io/badge/Metasploit-critical?style=for-the-badge&logo=metasploit&logoColor=white&color=darkred)
+![Wireshark](https://img.shields.io/badge/Wireshark-informational?style=for-the-badge&logo=wireshark&logoColor=white&color=0099ff)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-important?style=for-the-badge&logo=aircrack-ng&logoColor=white&color=dd4814)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-critical?style=for-the-badge&logo=burpsuite&logoColor=white&color=ae3b2e)
 
-    h1 {
-      color: #00ffcc;
-      text-align: center;
-    }
+**Phishing tools**
 
-    .badge-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 15px;
-      margin-top: 30px;
-    }
+![SocialFish](https://img.shields.io/badge/SocialFish-phishing?style=for-the-badge&logo=fish&logoColor=white&color=008080)
+![SET Toolkit](https://img.shields.io/badge/SET_Toolkit-phishing?style=for-the-badge&logo=hackthebox&logoColor=white&color=4b0082)
 
-    .badge {
-      background: linear-gradient(45deg, #1f1f1f, #333);
-      color: #00ffcc;
-      font-family: monospace;
-      padding: 12px 18px;
-      border-radius: 10px;
-      border: 1px solid #00ffcc;
-      transition: transform 0.3s ease, background 0.5s ease;
-      cursor: pointer;
-      animation: float 2s ease-in-out infinite;
-      font-size: 16px;
-    }
 
-    .badge:hover {
-      transform: scale(1.1);
-      background: linear-gradient(45deg, #00ffcc, #005f5f);
-      color: #000;
-    }
+**Bruteforce tools**
 
-    @keyframes float {
-      0% { transform: translateY(0); }
-      50% { transform: translateY(-6px); }
-      100% { transform: translateY(0); }
-    }
-  </style>
-</head>
-<body>
-
-  <h1>🔥 Hacking Tools (Animated Badges)</h1>
-
-  <div class="badge-container">
-    <span class="badge">Nmap</span>
-    <span class="badge">Metasploit</span>
-    <span class="badge">Wireshark</span>
-    <span class="badge">Aircrack-ng</span>
-    <span class="badge">Burp Suite</span>
-    <span class="badge">John the Ripper</span>
-    <span class="badge">Hydra</span>
-    <span class="badge">Nikto</span>
-    <span class="badge">SQLMap</span>
-    <span class="badge">Maltego</span>
-    <span class="badge">SocialFish (Phishing)</span>
-    <span class="badge">SET Toolkit (Phishing)</span>
-    <span class="badge">BruteX (Bruteforce)</span>
-    <span class="badge">Medusa (Bruteforce)</span>
-  </div>
-
-</body>
-</html>
+![Hydra](https://img.shields.io/badge/Hydra-bruteforce?style=for-the-badge&logo=hydra&logoColor=white&color=ff0000)
+![Medusa](https://img.shields.io/badge/Medusa-bruteforce?style=for-the-badge&logo=linux&logoColor=white&color=ff4500)
