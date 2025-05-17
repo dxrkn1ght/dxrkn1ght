@@ -61,29 +61,7 @@ Me</a></br>
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dxrkn1ght&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="dxrkn1ght"/>
-  </div>
-  <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxrkn1ght&theme=blue-green" alt="dxrkn1ght" />
-  </div>
-</div>
-
-
-[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=dxrkn1ght&label=Profile%20views&color=0e75b6&style=flat" alt="dxrkn1ght" /> </p>)
-
-
-[//]: # (![C]&#40;https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&#41;)
-
-
-
-
-
-
-\n
 
 ## As s Cybersecurity specialist
 
@@ -111,3 +89,24 @@ Me</a></br>
 
 ![Hydra](https://img.shields.io/badge/Hydra-bruteforce?style=for-the-badge&logo=hydra&logoColor=white&color=ff0000)
 ![Medusa](https://img.shields.io/badge/Medusa-bruteforce?style=for-the-badge&logo=linux&logoColor=white&color=ff4500)
+
+
+
+
+
+## Stats
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dxrkn1ght&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="dxrkn1ght"/>
+  </div>
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxrkn1ght&theme=blue-green" alt="dxrkn1ght" />
+  </div>
+</div>
+
+
+[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=dxrkn1ght&label=Profile%20views&color=0e75b6&style=flat" alt="dxrkn1ght" /> </p>)
+
+
+[//]: # (![C]&#40;https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&#41;)
