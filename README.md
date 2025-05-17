@@ -24,8 +24,8 @@ Me</a></br>
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://ovp.itv.com/v2/images/programme/gz00htt/itv_hub/01_Hero_DesktopCTV/16x9?distributionPartner=itv_hub&fallback=standard&w=767&q=65&blur=0&bg=false" width="500" height="320" />
-<img align="right" alt="GIF" src="https://rare-gallery.com/uploads/posts/996980-Black-Adam-glitch-art-alone-Mr.-Robot-Elliot-Mr.jpg" width="500" height="320" />
+<img align="right" alt="GIF" src="https://ovp.itv.com/v2/images/programme/gz00htt/itv_hub/01_Hero_DesktopCTV/16x9?distributionPartner=itv_hub&fallback=standard&w=767&q=65&blur=0&bg=false.gif" width="500" height="320" />
+
 
 
 **Back-End**
@@ -63,7 +63,7 @@ Me</a></br>
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-
+<img align="right" alt="GIF" src="https://rare-gallery.com/uploads/posts/996980-Black-Adam-glitch-art-alone-Mr.-Robot-Elliot-Mr.jpg" width="500" height="320" />
 
 ## As s Cybersecurity specialist
 
