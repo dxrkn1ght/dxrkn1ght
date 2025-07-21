@@ -1,3 +1,4 @@
+<img width="1280" height="1866" alt="cc6eed2f7316ed5d305cb1938380be50" src="https://github.com/user-attachments/assets/b9cfb94f-6b18-4094-b0d1-d393200ed364" /><img width="3840" height="2160" alaighn="left" alt="image" src="https://github.com/user-attachments/assets/ed6af274-c565-4bef-baec-dbe35676c974" />
 <h1 align="center">
   <img src="name.svg" alt="dxrkn1ght"/>
 </h1>
@@ -67,11 +68,10 @@ Me</a></br>
 ## As a Cybersecurity specialist
 
 
-<img align="right" src="https://rare-gallery.com/uploads/posts/996980-Black-Adam-glitch-art-alone-Mr.-Robot-Elliot-Mr.jpg
-" width="500" height="320" />
 
 
-**Tools**
+**Tools**<img width="1280" height="1866" alt="cc6eed2f7316ed5d305cb1938380be50" src="https://github.com/user-attachments/assets/9dcac6bd-ceff-4a78-94e0-813d91deea6a" />
+
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
