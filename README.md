@@ -107,13 +107,13 @@ ideology: Keep it minimal, keep it sharp 🧠
 </p>
 
 # 💬 Contact Me
-```
+
 
 - 📧 **Email:** [dxrk11kevin@gmail.com](mailto:dxrk11kevin@gmail.com)
 - 💻 **Portfolio:** [webresumekomron.vercel.app](https://webresumekomron.vercel.app/)
 - 💬 **Telegram:** [@mr_kevin24](https://t.me/mr_kevin24)
 
-```
+`
 
 # 🛠️ Currently Working On
 ```
