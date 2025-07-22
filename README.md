@@ -108,9 +108,11 @@ ideology: Keep it minimal, keep it sharp 🧠
 
 # 💬 Contact Me
 ```
-- 📧 Email: [my email](dxrk11kevin@example.com)dxrk11kevin@example.com
-- 💻 Portfolio: [my portfolio](https://webresumekomron.vercel.app/)
-- 💬 Telegram: [my telegram](https://t.me/mr_kevin24)
+
+- 📧 **Email:** [dxrk11kevin@gmail.com](mailto:dxrk11kevin@gmail.com)
+- 💻 **Portfolio:** [webresumekomron.vercel.app](https://webresumekomron.vercel.app/)
+- 💬 **Telegram:** [@mr_kevin24](https://t.me/mr_kevin24)
+
 ```
 
 # 🛠️ Currently Working On
