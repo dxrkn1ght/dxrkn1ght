@@ -1,4 +1,4 @@
-<img width="1280" height="1866" alt="cc6eed2f7316ed5d305cb1938380be50" src="https://github.com/user-attachments/assets/b9cfb94f-6b18-4094-b0d1-d393200ed364" /><img width="3840" height="2160" alaighn="left" alt="image" src="https://github.com/user-attachments/assets/ed6af274-c565-4bef-baec-dbe35676c974" />
+<img alaighn="left" alt="image" src="https://github.com/user-attachments/assets/ed6af274-c565-4bef-baec-dbe35676c974" />
 <h1 align="center">
   <img src="name.svg" alt="dxrkn1ght"/>
 </h1>
@@ -25,7 +25,7 @@ Me</a></br>
 
 ## Technology stack
 
-<img align="right" src="https://ovp.itv.com/v2/images/programme/gz00htt/itv_hub/01_Hero_DesktopCTV/16x9?distributionPartner=itv_hub&fallback=standard&w=767&q=65&blur=0&bg=false" width="500" height="320" />
+<img align="right" src="https://ovp.itv.com/v2/images/programme/gz00htt/itv_hub/01_Hero_DesktopCTV/16x9?distributionPartner=itv_hub&fallback=standard&w=767&q=65&blur=0&bg=false" width="500" height="320"/>
 
 
 
@@ -68,10 +68,10 @@ Me</a></br>
 ## As a Cybersecurity specialist
 
 
+<img width="842" height="1191" alt="image" src="https://github.com/user-attachments/assets/d79756da-43ce-4fff-b78f-423f7b49f967" />
+ 
 
-
-**Tools**<img width="1280" height="1866" alt="cc6eed2f7316ed5d305cb1938380be50" src="https://github.com/user-attachments/assets/9dcac6bd-ceff-4a78-94e0-813d91deea6a" />
-
+**Tools**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
