@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://i.pinimg.com/736x/4d/3a/49/4d3a49978d3d9917cf06499fa921216a.jpg" width="65%" alt="Cyberpunk Banner"/>
+</p>
+
+
+
 <h1 align="center">
   <pre>
    ____  _                 _         __             
@@ -11,6 +17,8 @@
 </h1>
 
 ---
+
+
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40px"/> Hey, I’m <code>dxrkn1ght</code> 👾
@@ -35,7 +43,7 @@ ideology: Keep it minimal, keep it sharp 🧠
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="70%">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="65%">
 </p>
 
 
@@ -45,6 +53,12 @@ ideology: Keep it minimal, keep it sharp 🧠
 ┌─[dxrkn1ght@github]─[~/mindset]
 └──╼ $ echo "Hack the system, master the logic, automate your world."
 ```
+
+<blockquote align="center">
+  <img src="https://i.pinimg.com/736x/6b/33/7c/6b337cebb0b4659fa7c3e98931d8e618.jpg" width="300px"/><br/>
+  <strong><i>"I don't just hack systems... I hack society." – Mr. Robot</i></strong>
+</blockquote>
+
 
 # ⚙️ Tech Stack
 <p align="center">
@@ -60,9 +74,11 @@ ideology: Keep it minimal, keep it sharp 🧠
   <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
 </p>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="70%" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,git,postgresql,html,css,js" alt="Tech Stack"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60%" />
 </p>
 
 # 📊 GitHub Stats
@@ -98,8 +114,9 @@ ideology: Keep it minimal, keep it sharp 🧠
 - Markdown + Typora + Obsidian
 
 # 👀 Visitors
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dxrkn1ght&label=PROFILE+VIEWS&color=purple&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=dxrkn1ght&label=PROFILE+VIEWS&style=flat"/>
 </p>
 
 # 🧩 Quote Generator (ASCII)
