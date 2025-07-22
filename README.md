@@ -1,18 +1,22 @@
+
+
 <p align="center">
-  <img src="https://i.pinimg.com/736x/4d/3a/49/4d3a49978d3d9917cf06499fa921216a.jpg" width="65%" alt="Cyberpunk Banner"/>
+  <img src="https://i.pinimg.com/originals/ff/85/ba/ff85baa21c18eaa929d14d5482a7f4e4.jpg" width="100%" alt="Cyberpunk Banner"/>
 </p>
 
 
 
-<h1 align="center">
+<h1 align="center" width="70%">
   <pre>
-   ____  _                 _         __             
-  / ___|| |__   ___   ___ | | __    / /__  __ ___   
-  \___ \| '_ \ / _ \ / _ \| |/ /   / / \ \/ // _ \  
-   ___) | | | | (_) | (_) |   <   / /___>  <|  __/  
-  |____/|_| |_|\___/ \___/|_|\_\ /_____/_/\_\\___|  
+███╗   ███╗███████╗████████╗██████╗  ██████╗ ██████╗  ██████╗ ████████╗
+████╗ ████║██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗╚══██╔══╝
+██╔████╔██║█████╗     ██║   ██████╔╝██║   ██║██████╔╝██║   ██║   ██║   
+██║╚██╔╝██║██╔══╝     ██║   ██╔═══╝ ██║   ██║██╔═══╝ ██║   ██║   ██║   
+██║ ╚═╝ ██║███████╗   ██║   ██║     ╚██████╔╝██║     ╚██████╔╝   ██║   
+╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝      ╚═════╝ ╚═╝      ╚═════╝    ╚═╝   
 
-   Hello, friend. ~ Mr. Robot 🕶️
+          Hello friend. I see you're hacking reality ~ Mr. Robot🕶️
+   
   </pre>
 </h1>
 
@@ -23,7 +27,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40px"/> Hey, I’m <code>dxrkn1ght</code> 👾
 </h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Cybersecurity+Explorer;Open+Source+Contributor;Lover+of+Linux+%26+Terminal;Mr.Robot+Inspired+Coder+%F0%9F%98%8E" />
 </p>
@@ -38,6 +41,13 @@ os: Arch Linux / Ubuntu
 shell: zsh + oh-my-zsh / starship
 ideology: Keep it minimal, keep it sharp 🧠
 ```
+
+
+<blockquote align="center">
+  <img src="https://i.pinimg.com/originals/e4/5c/a3/e45ca3fb72bbe75f7a21e9bcbaef0db6.jpg?nii=t" width="300px"/><br/>
+  <strong><i>👤 I am `dxrkn1ght`
+> A passionate self-taught developer inspired by CyberSecurity, Mr. Robot, and the underground world of code." – Mr. Robot</i></strong>
+</blockquote>
 
 
 
@@ -98,20 +108,26 @@ ideology: Keep it minimal, keep it sharp 🧠
 </p>
 
 # 💬 Contact Me
-- 📧 Email: you@example.com
-- 💻 Portfolio: https://yourwebsite.com
-- 💬 Telegram: [@yourusername](https://t.me/yourusername)
+```
+- 📧 Email: [my email](dxrk11kevin@example.com)dxrk11kevin@example.com
+- 💻 Portfolio: [my portfolio](https://webresumekomron.vercel.app/)
+- 💬 Telegram: [my telegram](https://t.me/mr_kevin24)
+```
 
 # 🛠️ Currently Working On
+```
 - Building scalable Django APIs
 - Deploying secure cloud-based apps
 - Mastering test automation
 - Writing better documentation
+```
 
 # 🧪 Tools I Love
+```
 - zsh + starship + neovim + tmux
 - GitHub Actions + Docker + NGINX
 - Markdown + Typora + Obsidian
+```
 
 # 👀 Visitors
 
