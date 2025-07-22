@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>dxrkn1ght • Cyber Resume</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <button id="theme-toggle">🌙</button>
+
+  <header class="banner">
+    <img src="assets/matrix.gif" alt="Matrix ASCII Animation" />
+    <h1>Hello, friend. ~ Mr. Robot 🕶️</h1>
+  </header>
+
+  <section id="about">
+    <h2>👨‍💻 About Me</h2>
+    <p>
+      I am <strong>dxrkn1ght</strong> – a Python/Django backend developer passionate
+      about cybersecurity, automation, and terminal aesthetics.
+    </p>
+  </section>
+
+  <section id="tech">
+    <h2>⚙️ Tech Stack</h2>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  </section>
+
+  <section id="contact">
+    <h2>📫 Contact Me</h2>
+    <ul>
+      <li>Email: <a href="mailto:komronbekzubaydullayev@gmail.com">komronbekzubaydullayev@gmail.com</a></li>
+      <li>Telegram: <a href="https://t.me/mr_kevin24" target="_blank">@mr_kevin24</a></li>
+      <li>Portfolio: <a href="https://webresumekomron.vercel.app/" target="_blank">webresumekomron.vercel.app</a></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 dxrkn1ght — A cyberpunk terminal into my dev mind.</p>
+  </footer>
+
+  <script>
+    const btn = document.getElementById('theme-toggle');
+    btn.addEventListener('click', () => {
+      document.body.classList.toggle('dark');
+      btn.textContent = document.body.classList.contains('dark') ? '☀️' : '🌙';
+      localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
+    });
+
+    window.onload = () => {
+      if(localStorage.getItem('theme') === 'dark') {
+        document.body.classList.add('dark');
+        btn.textContent = '☀️';
+      }
+    };
+  </script>
+</body>
+</html>
