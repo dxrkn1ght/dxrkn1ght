@@ -23,7 +23,6 @@
 ---
 
 
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40px"/> Hey, I’m <code>dxrkn1ght</code> 👾
 </h1>
@@ -154,3 +153,17 @@ $ fortune | cowsay -f tux
 > 🧷 **Tip:** Dark mode on GitHub + Cascadia Code font = ✨ ultimate hacker feel ✨
 
 > ⚠️ This README is a cyberpunk terminal into my dev mind. Welcome to the underground.
+> 
+
+<h1 align="center" width="70%">
+  <pre>
+    🔚 ASCII Signature
+
+─────▄██▄─────
+───▄██████▄───
+─▄██████████▄─
+██████████████
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+ dxrkn1ght - Hack the Planet
+ </pre>
+</h1>
