@@ -35,8 +35,8 @@
 alias: dxrkn1ght
 role: Python / Django Backend Developer
 focus: Security · FastAPI · DRF · Clean Code · Automation
-editor: VSCode / NeoVim
-os: Arch Linux / Ubuntu
+editor: VSCode / NeoVim / PyCharm
+os: Arch Linux / Ubuntu / Kali Linux / MacOS / Windows
 shell: zsh + oh-my-zsh / starship
 ideology: Keep it minimal, keep it sharp 🧠
 ```
