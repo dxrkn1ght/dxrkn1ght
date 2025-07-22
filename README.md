@@ -1,21 +1,69 @@
-<img alaighn="left" alt="image" src="https://github.com/user-attachments/assets/ed6af274-c565-4bef-baec-dbe35676c974" />
 <h1 align="center">
-  <img src="name.svg" alt="dxrkn1ght"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40px"/> Hey, I’m <code>dxrkn1ght</code> 👾
 </h1>
 
-## Hi there 👋 I'm a Fullstack developer (cybersecurity specialist)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Cybersecurity+Explorer;Open+Source+Contributor;Lover+of+Linux+%26+Terminal;Mr.Robot+Inspired+Coder+%F0%9F%98%8E" />
+</p>
 
-<a href="https://www.youtube.com/@not_koma_/">
-  <img align="left" alt="YouTube" width="22px" src="https://www.svgrepo.com/show/13671/youtube.svg"/>
-</a>
-<a href="https://discord.com/channels/@s1mple_dxrk_71965">
-  <img align="left" alt="Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
-</a>
-<a href="https://www.linkedin.com/in//">
-  <img align="left" alt="LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
-</a>
+---
 
-<br>
+## 🧠 About Me
+
+💀 I’m a backend developer & security enthusiast with a passion for hacking things (ethically, of course).  
+🛠️ I love building with **Python**, **Django**, and exploring **cyberpunk-styled projects**.  
+🧑‍💻 I learn by breaking, debugging, and rebuilding.  
+
+---
+
+## 🔐 Tech Arsenal
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+## 🧪 Notable Projects
+
+| 🗂️ Name | 🔎 Description |
+|--------|----------------|
+| [2-exam](https://github.com/dxrkn1ght/2-exam) | Django CRUD system simulating an exam system with article logic |
+| [weather-app](https://github.com/dxrkn1ght/weather-app) | Weather forecast app built with external API |
+| More coming soon... | Always building something in the dark ⚡ |
+
+---
+
+## 🧠 Cyber Vibes
+
+> “Control is an illusion. The only reality is chaos.” – Mr. Robot  
+> “People always make the best exploits.” – Elliot Alderson
+
+<p align="center">
+  <img src="https://media.tenor.com/BfMiCn1fGxUAAAAC/hacker-hackerman.gif" width="380px" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 🛜 Telegram: [@dxrkn1ght](https://t.me/dxrkn1ght)
+- 📧 Email: dxrk11kevin@gmail.com
+- 🌐 Portfolio (coming soon...)
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hack_the_Planet-000000?style=for-the-badge&logo=protonmail&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250px" />
+</p>
+
 
 ## Telegram
 
